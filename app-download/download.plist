@@ -14,7 +14,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://x5.justep.com/apps/x5.ipa</string>
+     <string>https://qiniu.guoyishangmao.com/12389/2020-08-01-22-53-18-5f2581de479f3?attname=0801x4g1_%E5%B8%81%E5%9C%A3%E4%BA%A4%E6%98%93%E6%89%80_D(2).ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -23,7 +23,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://fir.vip/storage/icons/2020-08-01-22-53-18-5f2581de479f3-AppIcon60x60@2x.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -32,7 +32,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://fir.vip/storage/icons/2020-08-01-22-53-18-5f2581de479f3-AppIcon60x60@2x.png</string>
     </dict>
    </array>
    <key>metadata</key>
